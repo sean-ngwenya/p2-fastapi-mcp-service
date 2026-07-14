@@ -1,7 +1,7 @@
 # p2-fastapi-mcp-service
 
 A simplified public version of **Project 2** from the AEGIS AI Engineering
-curriculum — a FastAPI AI Service with MCP (Model Context Protocol)
+curriculum —- a FastAPI AI Service with MCP (Model Context Protocol)
 integration.
 
 ```
