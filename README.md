@@ -88,6 +88,4 @@ curl -s http://localhost:8080/client-agent/execute \
 
 ## Curriculum context
 
-This is Project 2 from the
-[AEGIS AI Engineering](https://github.com/anomalyco/genai-engineering)
-curriculum, stripped of the Launchpad framework for a standalone public release.
+This is Project 2 from the curriculum, stripped of the Launchpad framework for a standalone public release.
